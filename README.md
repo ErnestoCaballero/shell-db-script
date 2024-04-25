@@ -20,4 +20,4 @@ This script was developed to address issues arising from incomplete data generat
 
 ### Example Usage:
 ```bash
-$ ./data_fix_script.sh -input <input_directory> -output <output_directory>
+$ ./data_fix_script.sh process_no
